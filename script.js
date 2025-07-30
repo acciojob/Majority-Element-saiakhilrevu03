@@ -21,5 +21,5 @@ function majorityElement(arr){
 		return ele;
 	}
 }
-const arr = [2,1,2];
+
 alert(majorityElement(arr));
