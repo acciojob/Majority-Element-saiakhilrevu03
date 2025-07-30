@@ -19,6 +19,8 @@ function majorityElement(arr){
 	}
 	if(count>majority){
 		return ele;
+	}else{
+		return null
 	}
 }
 
